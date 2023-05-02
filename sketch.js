@@ -118,7 +118,7 @@ function preload(){
   img = loadImage('Imagenes/cohete.png');
   planeta = loadImage('Imagenes/planeta.png');
   barrera = loadImage('Imagenes/Barrera.png');
-  asteroide = loadImage('Imagenes/Asteroide1.png');
+  asteroide = loadImage('Imagenes/asteroide1.png');
 }
 
 function setup() {
